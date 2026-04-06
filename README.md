@@ -11,15 +11,15 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-jhade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jhade/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjhade3504@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush-3504)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/your-username?style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=piyush-3504&color=blueviolet&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/piyush-3504?style=flat-square&color=blueviolet)
 
 </div>
 
@@ -98,10 +98,10 @@ const piyush = {
 <div align="center">
 
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=quick-gpt&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-3504&repo=quick-gpt&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" />
 </a>
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=real-time-chat&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-3504&repo=real-time-chat&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" />
 </a>
 
 </div>
@@ -144,18 +144,18 @@ const piyush = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyush-3504&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-3504&layout=compact&langs_count=8&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-3504&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Piyush's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-3504&custom_title=Piyush's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -180,7 +180,7 @@ const piyush = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/piyush-3504/piyush-3504/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -192,7 +192,7 @@ const piyush = {
 <a href="mailto:piyushjhade3504@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/piyush-jhade">
+<a href="https://www.linkedin.com/in/piyush-jhade/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="tel:+918770800776">
