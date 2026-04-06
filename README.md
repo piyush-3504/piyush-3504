@@ -1,121 +1,182 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Piyush%20Jhade&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=42&desc=MERN%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20GenAI%20Builder&descAlignY=65&descSize=15&descColor=c4b5fd"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Piyush%20Jhade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20GenAI%20Builder&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=C4B5FD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+Bhopal+%F0%9F%87%AE%F0%9F%87%B3;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+AI-Powered+Apps+%F0%9F%A4%96;Open+to+Opportunities+%E2%9C%85"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;GenAI+%26+RAG+Application+Builder+%F0%9F%A4%96;Next.js+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Real-World+Production+Systems+%F0%9F%8C%90" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jhade/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-1-w4om.onrender.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjhade3504@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush-3504)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jhade/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-1-w4om.onrender.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjhade3504@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush-3504)
 
-![](https://komarev.com/ghpvc/?username=piyush-3504&color=7c3aed&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=piyush-3504&color=blueviolet&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/piyush-3504?style=flat-square&color=blueviolet)
 
 </div>
 
 ---
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**`piyush.config.ts`**
-```ts
-const dev = {
-  name     : "Piyush Jhade",
-  college  : "SIRT Bhopal · B.Tech CSE 2026",
-  intern   : "Sheryians Pvt. Ltd.",
-  built    : ["Quick GPT", "ChatifyX", "AI Assistant"],
-  loves    : ["GenAI", "RAG", "Clean UI"],
-  trophy   : "🥇 Interface Innovation · TechnoSaga",
-}
+## 🧑‍💻 About Me
+
+```javascript
+const piyush = {
+  name: "Piyush Jhade",
+  role: "MERN Full Stack Developer",
+  location: "Bhopal, India 🇮🇳",
+  education: "B.Tech CSE @ SIRT, RGPV (2026)",
+  cgpa: "7.86 / 10",
+  currentFocus: ["GenAI Apps", "RAG Systems", "System Design"],
+  experience: "Full Stack Dev Intern @ Sheryians Pvt. Ltd.",
+  passions: ["Building cool stuff", "AI-powered products", "Clean code"],
+  funFact: "Won 1st place in Interface Innovation @ TechnoSaga 🏆"
+};
 ```
 
-<br clear="right"/>
+- 🔭 &nbsp; Currently building **AI-powered full-stack applications**
+- 🌱 &nbsp; Exploring **LangChain, RAG pipelines & Vector Databases**
+- 💼 &nbsp; Ex-Intern @ **[Sheryians Pvt. Ltd.](https://hire.sheryians.com)** — built AI test evaluation systems
+- 🏆 &nbsp; **Multiple competition winner** in frontend & backend
+- 📫 &nbsp; Reach me at **piyushjhade3504@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,git,github,vscode,postman,vercel,java,python&theme=dark&perline=9"/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css&theme=dark&perline=8"/>
 
-<br/>
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=8"/>
 
-![Gemini](https://img.shields.io/badge/Gemini_AI-1a1a2e?style=flat-square&logo=google&logoColor=c4b5fd)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-1a1a2e?style=flat-square&logo=openai&logoColor=c4b5fd)
-![Pinecone](https://img.shields.io/badge/Pinecone_DB-1a1a2e?style=flat-square&logo=pinecone&logoColor=c4b5fd)
-![Socket.io](https://img.shields.io/badge/Socket.io-1a1a2e?style=flat-square&logo=socketdotio&logoColor=c4b5fd)
-![JWT](https://img.shields.io/badge/JWT-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=c4b5fd)
+### 🤖 AI / GenAI
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8"/>
+
+> `Gemini AI Studio` &nbsp;•&nbsp; `RAG Pipelines` &nbsp;•&nbsp; `LLM Integration` &nbsp;•&nbsp; `Pinecone Vector DB` &nbsp;•&nbsp; `WebSockets`
+
+### 🔧 Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,java,python&theme=dark&perline=8"/>
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-**Full Stack Intern** · [Sheryians Pvt. Ltd.](https://hire.sheryians.com) · *Dec 2025 – Mar 2026*
-- Built **AI test generation system** with LLM integration for recruiters
-- Fixed critical JWT auth bug → implemented refresh token flow
+```
+🏢  Sheryians Pvt. Ltd.  ·  hire.sheryians.com           Dec 2025 – March 2026
+    Full Stack Developer Intern  ·  Bhopal, India
 
----
+    ✅  Built AI-powered test generation & evaluation system
+        (LLM-integrated MCQ + coding test platform for recruiters)
 
-## 🚀 Projects
-
-| Project | Stack | Link |
-|---|---|---|
-| ⚡ **Quick GPT** — AI chat + image generation | `MERN` `Gemini AI` `JWT` | [Live ↗](https://quick-gpt-azure.vercel.app/) |
-| 💬 **ChatifyX** — Real-time messaging platform | `MERN` `Socket.io` `JWT` | [Live ↗](https://chatifyx.onrender.com/) |
-| 🎨 **ApnaCollege Redesign** — REIMAGINE Rd.1 | `HTML` `CSS` `JS` | [Live ↗](https://knightwolf01-reimagine-round1.vercel.app/) |
-| 📈 **OlympTrade Redesign** — REIMAGINE Rd.2 | `Tailwind` `JS` | [Live ↗](https://knightwolf-reimagine-round2.vercel.app/) |
+    ✅  Fixed critical auth bug → implemented reliable refresh
+        token mechanism for seamless session continuity
+```
 
 ---
 
-## 📊 Stats
+## 🚀 Featured Projects
+
+### 💬 Quick GPT — AI Conversational Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://quick-gpt-azure.vercel.app/)
+> Full-stack MERN app with **Gemini AI Studio** integration for conversational AI + text-to-image generation.
+- 🔐 JWT-based stateless authentication with optimized REST APIs
+- 🖼️ Community image sharing + subscription-based premium plans
+- ☁️ Scalable cloud deployment on Vercel
+
+### 💬 Real-Time Chat App — Full-Stack Messaging Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=render&logoColor=white)](https://chatifyx.onrender.com/)
+> **Socket.io** powered messaging platform with JWT auth and persistent MongoDB storage.
+- ⚡ WebSocket-driven low-latency communication
+- 🔒 Secure JWT-based authentication flow
+- 💾 Persistent message history in MongoDB
+
+### 🎨 Frontend Projects — UI/UX Clones & Redesigns
+> Modern redesigns and pixel-perfect clones with animations and responsive design.
+- 🏫 **[ApnaCollege Redesign](https://knightwolf01-reimagine-round1.vercel.app/)** — Modern animations & responsive layout
+- 📈 **[OlympTrade Redesign](https://knightwolf-reimagine-round2.vercel.app/)** — Redesigned landing page
+- ✨ **[Rejouice Clone](https://www.linkedin.com/posts/piyush-jhade-6b0703255_webdevelopment-frontendjourney-htmlcssjs-activity-7141078070177824768-erL-/)** — Animated clone with smooth UI transitions
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyush-3504&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-3504&layout=compact&langs_count=8&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyush-3504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&icon_color=c4b5fd&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-3504&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-3504&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
+</div>
 
 <br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-3504&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c4b5fd&line=c4b5fd&point=fff&area=true"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-3504&custom_title=Piyush's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-| | |
+| 🥇 Achievement | Details |
 |---|---|
-| 🥇 | **1st Place** — Frontend Batch · Sheryians |
-| 🥈 | **2nd Place** — Backend Batch · Sheryians |
-| 🎖️ | **Winner** — Interface Innovation, TechnoSaga |
-| 🌐 | [**REIMAGINE International** — Round 3 Qualifier](https://drive.google.com/file/d/16STd-c5MJn6dEoP4dLeWjUes_d7nSqCN/view?usp=drivesdk) |
-| ☕ | [**NPTEL Java + DSA** — Elite Silver 79%](https://drive.google.com/file/d/1onSa6Nd0ptDnbUMka2oemMdXNd_3ZIoE/view?usp=drivesdk) |
-| 🤖 | [**Google Gemini GenAI** Certified](https://edu.google.accredible.com/dce2b20a-2317-4a29-a157-cf7e60cba1b2#acc.M63o2twf) |
+| 🏆 **1st Place — Frontend Batch** | Excellence in frontend development & UI implementation |
+| 🥈 **2nd Place — Backend Batch** | Strong backend development & problem-solving |
+| 🎖️ **Winner — Interface Innovation, TechnoSaga** | 1st place in frontend development competition |
+| 🌐 **[REIMAGINE International — Round 3 Qualifier](https://drive.google.com/file/d/16STd-c5MJn6dEoP4dLeWjUes_d7nSqCN/view?usp=drivesdk)** | Advanced to Round 3 by Sheryians |
+
+| 📜 Certification | Provider | Score / Status |
+|---|---|---|
+| [Java Programming & Data Structures](https://drive.google.com/file/d/1onSa6Nd0ptDnbUMka2oemMdXNd_3ZIoE/view?usp=drivesdk) | NPTEL | 79% — Elite Silver 🥈 |
+| Full Stack Development (MERN) | Sheryians Pvt. Ltd. | Completed ✅ |
+| [Gemini GenAI Certification](https://edu.google.accredible.com/dce2b20a-2317-4a29-a157-cf7e60cba1b2#acc.M63o2twf) | Google | Certified ✅ |
 
 ---
 
-## 🐍 Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-3504/piyush-3504/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/piyush-3504/piyush-3504/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-3504/piyush-3504/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/piyush-3504/piyush-3504/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
 
 ---
 
+## 📬 Let's Connect!
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jhade/)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-1-w4om.onrender.com/)
+<a href="mailto:piyushjhade3504@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/piyush-jhade/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://portfolio-1-w4om.onrender.com/">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=twinkling"/>
+<br/><br/>
+
+> *"Code is not just syntax — it's the art of turning ideas into reality."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 
 </div>
