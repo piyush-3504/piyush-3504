@@ -46,7 +46,7 @@ const piyush = {
 
 - 🔭 &nbsp; Currently building **AI-powered full-stack applications**
 - 🌱 &nbsp; Exploring **LangChain, RAG pipelines & Vector Databases**
-- 💼 &nbsp; Ex-Intern @ **Sheryians Pvt. Ltd.** — built AI test evaluation systems
+- 💼 &nbsp; Ex-Intern @ **[Sheryians Pvt. Ltd.](https://hire.sheryians.com)** — built AI test evaluation systems
 - 🏆 &nbsp; **Multiple competition winner** in frontend & backend
 - 📫 &nbsp; Reach me at **piyushjhade3504@gmail.com**
 
@@ -95,46 +95,35 @@ const piyush = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-3504&repo=quick-gpt&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush-3504&repo=real-time-chat&theme=midnight-purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=7F3FBF" />
-</a>
-
-</div>
-
-### 💬 Quick GPT — AI Conversational Platform
+### 💬 Quick GPT — AI Conversational Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://quick-gpt-azure.vercel.app/)
 > Full-stack MERN app with **Gemini AI Studio** integration for conversational AI + text-to-image generation.
-- 🔐 JWT-based stateless authentication
-- 🖼️ Community image sharing + premium subscription plans
-- ⚡ Optimized REST APIs with protected routes
+- 🔐 JWT-based stateless authentication with optimized REST APIs
+- 🖼️ Community image sharing + subscription-based premium plans
+- ☁️ Scalable cloud deployment on Vercel
 
-### 🤖 AI Virtual Assistant
-> Speech-enabled real-time assistant using **MERN + Gemini AI** deployed on cloud infrastructure.
-- 🎤 Real-time speech recognition
-- 📱 Mobile-friendly, low-latency architecture
-- ☁️ Scalable cloud deployment
-
-### 💬 Real-Time Chat App
+### 💬 Real-Time Chat App — Full-Stack Messaging Platform &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=render&logoColor=white)](https://chatifyx.onrender.com/)
 > **Socket.io** powered messaging platform with JWT auth and persistent MongoDB storage.
 - ⚡ WebSocket-driven low-latency communication
-- 🔒 Secure authentication flow
-- 💾 Persistent message history
+- 🔒 Secure JWT-based authentication flow
+- 💾 Persistent message history in MongoDB
+
+### 🎨 Frontend Projects — UI/UX Clones & Redesigns
+> Modern redesigns and pixel-perfect clones with animations and responsive design.
+- 🏫 **[ApnaCollege Redesign](https://knightwolf01-reimagine-round1.vercel.app/)** — Modern animations & responsive layout
+- 📈 **[OlympTrade Redesign](https://knightwolf-reimagine-round2.vercel.app/)** — Redesigned landing page
+- ✨ **[Rejouice Clone](https://www.linkedin.com/posts/piyush-jhade-6b0703255_webdevelopment-frontendjourney-htmlcssjs-activity-7141078070177824768-erL-/)** — Animated clone with smooth UI transitions
 
 ---
 
 ## 💼 Work Experience
 
 ```
-🏢  Sheryians Pvt. Ltd.             Dec 2025 – March 2026
-    Full Stack Developer Intern      Bhopal, India
-    
+🏢  Sheryians Pvt. Ltd.  →  hire.sheryians.com       Dec 2025 – March 2026
+    Full Stack Developer Intern                        Bhopal, India
+
     ✅  Built AI-powered test generation & evaluation system
         (LLM-integrated MCQ + coding test platform for recruiters)
-    
+
     ✅  Fixed critical auth bug → implemented reliable refresh
         token mechanism for seamless session continuity
 ```
@@ -167,13 +156,13 @@ const piyush = {
 | 🏆 **1st Place — Frontend Batch** | Excellence in frontend development & UI implementation |
 | 🥈 **2nd Place — Backend Batch** | Strong backend development & problem-solving |
 | 🎖️ **Winner — Interface Innovation, TechnoSaga** | 1st place in frontend development competition |
-| 🌐 **REIMAGINE International Frontend** | Round 3 Qualifier (organized by Sheryians) |
+| 🌐 **[REIMAGINE International — Round 3 Qualifier](https://drive.google.com/file/d/16STd-c5MJn6dEoP4dLeWjUes_d7nSqCN/view?usp=drivesdk)** | Advanced to Round 3 by Sheryians |
 
-| 📜 Certification | Provider | Score |
+| 📜 Certification | Provider | Score / Status |
 |---|---|---|
-| Java Programming & Data Structures | NPTEL | 79% — Elite Silver 🥈 |
+| [Java Programming & Data Structures](https://drive.google.com/file/d/1onSa6Nd0ptDnbUMka2oemMdXNd_3ZIoE/view?usp=drivesdk) | NPTEL | 79% — Elite Silver 🥈 |
 | Full Stack Development (MERN) | Sheryians Pvt. Ltd. | Completed ✅ |
-| Gemini GenAI Certification | Google | Certified ✅ |
+| [Gemini GenAI Certification](https://edu.google.accredible.com/dce2b20a-2317-4a29-a157-cf7e60cba1b2#acc.M63o2twf) | Google | Certified ✅ |
 
 ---
 
@@ -195,8 +184,8 @@ const piyush = {
 <a href="https://www.linkedin.com/in/piyush-jhade/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="tel:+918770800776">
-  <img src="https://img.shields.io/badge/+91_8770800776-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://portfolio-1-w4om.onrender.com/">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br/><br/>
